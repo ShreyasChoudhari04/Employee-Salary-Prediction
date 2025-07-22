@@ -24,10 +24,15 @@ Job Title,
 Years of Experience,
 Train Salary( used as target variable).
 
+## 🔄 Update Log
+- 🗓️ **19 July 2025**: Initial project submitted with 89% accuracy  
+- 🗓️ **22 July 2025**: Improved model → Accuracy updated to 94%  
+- ✅ GitHub repository updated with final working version
+- 
 🛠️ Model & Accuracy
 
 Model: Random Forest Regressor:
-        1) Accuracy (R² Score): 99.75%.
+        1) Accuracy (R² Score): 94%.
                   2)Features were preprocessed using One-Hot Encoding. Missing values were cleaned and the model was trained/tested with an 80/20 split.
 
 📈 Results
