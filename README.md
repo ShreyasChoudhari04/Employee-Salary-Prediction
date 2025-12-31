@@ -39,5 +39,3 @@ Model: Random Forest Regressor:
 
 The model successfully predicts salaries based on job-related inputs with high accuracy. Predicted salaries were added as a new column (Predicted Salary) to the dataset.
 
-📬
-Project by Shreyas Choudhari
